@@ -1,0 +1,27 @@
+CODIGO;NOMBRE;CREDITOS;ESCUELA;AREA;PREREQUISITOS;POSTREQUISITOS;CATEGORIA;LABORATORIO;RESTRICCION;SEMESTRE
+348;Qu¡mica General;3;Ciencias;Qu¡mica General;0;352;Obligatoria;Si;0;1
+101;Mate Basica 1;7;Ciencias;Mat‚matica B sica;0;103,147,352;Obligatoria;No;0;1
+69;T‚cnica Complementaria 1;3;Ciencias;T‚cnica Complementaria;0;73;Obligatoria;No;0;1
+39;Deportes 1;1;Ciencias;Deportes;0;0;Opcional;No;0;1
+17;Social Humanistica 1;4;Ciencias;Social Humanistica;0;19;Obligatoria;No;0;1
+6;Idioma T‚cnico 1;2;Ciencias;Idioma T‚cnico;0;8;Obligatoria;No;0;1
+5;T‚cnicas de Estudio y de Investigaci¢n;3;Ciencias;Planificaci¢n;0;732;Obligatoria;No;0;2
+103;Mate Basica 2;7;Ciencias;Mat‚matica B sica;101;107,150,2025;Obligatoria;No;0;2
+147;F¡sica B sica;5;Ciencias;F¡sica;101;352,150;Obligatoria;Si;0;2
+40;Deportes 2;1;Ciencias;Deportes;39;0;Opcional;No;0;2
+19;Social Humanistica 2;4;Ciencias;Social Humanistica;17;18;Obligatoria;No;0;2
+8;Idioma T‚cnico 2;2;Ciencias;Idioma T‚cnico;6;9;Obligatoria;No;0;2
+352;Qu¡mica 2;4;Ciencias;Qu¡mica General;101,147,348;0;Opcional;Si;0;3
+107;Mate Intermedia 1;10;Ciencias;Departamento de Matem tica ;103;608,732,170,112,114,152;Obligatoria;No;0;3
+150;F¡sica 1;6;Ciencias;Depto. de F¡sica;103,147;170,152;Obligatoria;Si;0;3
+18;Filosof¡a de la Ciencia;3;Ciencias;Social Humanistica;19;0;Opcional;No;0;3
+9;Idioma T‚cnico 3;2;Ciencias;Idioma T‚cnico;8;11;Obligatoria;No;0;3
+2025;Pr ctica Inicial;0;Industrial;EPS;103;0;Obligatoria;No;0;3
+608;Introducci¢n a Proyectos Gerenciales;6;Mec nica Industrial;M‚todos Cuantitativos;107;0;Opcional;No;0;4
+73;Dibujo T‚cnico Mec nico;3;Ingenier¡a M‚canica;Complementaria;69;0;Obligatoria;Si;60;4
+732;Estad¡stica 1;5;Ciencias;Estadistica;107,5;0;Obligatoria;No;0;4
+170;Mec nica Anal¡tica 1;5;Ciencias;Depto. de F¡sica;107,150;0;Obligatoria;Si;0;4
+112;Mate Intermedia 2;5;Ciencias;Departamento de Matem tica;107;0;Obligatoria;No;0;4
+114;Mate Intermedia 3;5;Ciencias;Departamento de Matem tica;107;0;Obligatoria;No;0;4
+152;F¡sica 2;6;Ciencias;Depto. de F¡sica;107,150;0;Obligatoria;Si;0;4
+11;Idioma T‚cnico 4;2;Ciencias;Idioma T‚cnico;9;0;Obligatoria;No;0;4
