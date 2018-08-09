@@ -1,0 +1,19 @@
+CODIGO;NOMBRE;CREDITOS;ESCUELA;AREA;PREREQUISITO;POSTREQUISITO;CATEGORIA;LABORATORIO;RESTRICCION;SEMESTRE
+17;Social Humanistica 1;4;Ciencias;Social Humanistica;0;19;Obligatoria;No;0;1
+101;Matemática Basica 1;7;Ciencias;Matemática Basica;0;103;Obligatoria;No;0;1
+69;Tecnica Complementaria;3;Ciencias;Tecnica Complementaria;0;0;Obligatoria;No;0;1
+39;Deportes 1;1;Ciencias;Deportes;0;0;Opcional;No;0;1
+348;Quimica General 1;3;Ciencias;Quimica;0;0;Obligatoria;Si;0;1
+6;Idioma Tecnico 1;2;Ciencias;Idioma Tecnico;0;8;Obligatoria;No;0;1
+19;Social Humanistica 2;4;Ciencias;Social Humanistica;17;10, 18;Obligatoria;No;0;2
+103;Matemática Basica 2;7;Ciencias;Matemática Basica;101;107;Obligatoria;No;0;2
+5;Tecnicas de Estudio Y de Investigación;3;Ciencias;Planificacion;0;0;Obligatoria;No;0;2
+147;Fisica Basica;5;Ciencias;Fisica;0;150;Obligatoria;Si;0;2
+40;Deportes 2;1;Ciencias;Deportes;39;0;Opcional;No;0;2
+8;Idioma Tecnico 2;2;Ciencias;Idioma Tecnico;6;9;Obligatoria;No;0;2
+795;Logica de Sistemas;2;Ciencias y Sistemas;Metodología de Sistemas;103;796, 962, 771;Obligatoria;No;33;3
+960;Matemática para Computacion 1;5;Ciencias;Matemática Basica;103;796, 962, 771;Obligatoria;No;33;3
+770;Introduccion a la Programacion y Computacion 1;4;Ciencias y Sistemas;Desarrollo de Software;103;796, 962, 771;Obligatoria;Si;33;3
+107;Matemática Intermedia 1;10;Ciencias;Matemática Basica;103;732, 771, 112, 114, 152;Obligatoria;No;0;3
+150;Fisica 1;6;Ciencias;Fisica;103, 147;152;Obligatoria;Si;0;3
+9;Idioma Tecnico 3;2;Ciencias;Idioma Tecnico;8;11;Obligatoria;No;0;3
